@@ -1,3 +1,3 @@
 # HyperFed
 
-Codes will be released soon ASAP!
+Codes will be released ASAP!
