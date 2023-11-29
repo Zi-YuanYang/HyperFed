@@ -9,8 +9,8 @@ In clinical practice, computed tomography (CT) is an important noninvasive inspe
 #### Citation
 If our work is valuable to you, please cite our work:
 ```
-@article{yang2022mtcc,
-  title={CO3Net: Coordinate-Aware Contrastive Competitive Neural Network for Palmprint Recognition},
+@article{yang2023hyperfed,
+  title={Hypernetwork-based Physics-Driven Personalized Federated Learning for CT Imaging},
   author={Yang, Ziyuan and Xia, Wenjun and Lu, Zexin and Chen, Yingyu and Li, Xiaoxiao and Zhang, Yi},
   journal={IEEE Transactions on Neural Networks and Learning Systems},
   year={2023},
