@@ -18,6 +18,15 @@ If our work is valuable to you, please cite our work:
 }
 ```
 
+
+#### Requirements
+
+Our codes were implemented by ```PyTorch 1.10``` and ```11.3``` CUDA version. If you wanna try our method, please first install necessary packages as follows:
+
+```
+pip install requirements.txt
+```
+
 #### Acknowledgments
 Special thanks for Dr. Xia, Dr. Li and Dr. Zhang!
 
