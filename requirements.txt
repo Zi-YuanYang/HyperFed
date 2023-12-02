@@ -2,3 +2,6 @@ scipy
 matplotlib
 visdom
 torchsummary
+scikit-image
+timm
+einops
