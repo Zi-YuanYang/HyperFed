@@ -27,7 +27,7 @@ Our codes were implemented by ```PyTorch 1.10``` and ```11.3``` CUDA version. If
 pip install requirements.txt
 ```
 
-Our implementation is based on [CTLib](https://github.com/xiawj-hub/CTLIB), including the data simulatation and training IR-based methods. If you have an interest in data simulation and IR-based networks, we recommend installing it. Furthermore, HyperFed can be easily integrated into transformer-based methods with minor modifications.
+Our implementation is based on [CTLib](https://github.com/xiawj-hub/CTLIB) in simulating data and training IR-based methods. If you have an interest in data simulation and IR-based networks, we recommend installing it. Furthermore, HyperFed can be easily integrated into transformer-based methods with minor modifications.
 
 #### Acknowledgments
 Special thanks for Dr. Xia, Dr. Li and Dr. Zhang!
